@@ -1,3 +1,9 @@
+body{
+    width: 100%;
+    background-color: 	#B0C4DE;
+    font-family: Georgia, serif;
+      
+}
 .header{
   
     margin-top: 30px;
@@ -9,11 +15,10 @@
  }
  
  .img1{
-     height:450px;
-     width:450px;
+     height:400px;
+     width:400px;
      margin-right: 30px;
-     padding: 30px;
-    
+     border: solid 3px black;   
  }
  h1 {
    margin-left:30px;  
@@ -21,10 +26,11 @@
   
  }
  .img2{
-     height:400px;
-     width:600px;
+     height:300px;
+     width:400px;
      margin:30px;
      float: left;
+     border: solid 3px black;
  }
  .h2{
      margin: 30px;
@@ -32,12 +38,28 @@
  .p1{
      margin:30px;
      margin-left:30 px;
+     font-size: 1.2em;
  }
  .h3{
-     margin: 30px;
+     margin-left: 30px;
+     margin-top: 60px;
  }
+.img3{
+    border: solid 3px black; 
+}
+.img4{
+    border: solid 3px black; 
+}
+.img5{
+    border: solid 3px black;  
+}
+ .h8{
+    margin-left: 30px;
+    margin-top: 60px;
+}
  .p2{
      margin:30px;
+     width: 70%;
  }
  .clearfix {
      overflow: auto;
@@ -46,23 +68,23 @@
  table, th, td {
      border:1px solid black;
      border-collapse: collapse;
-     text-align: center;
-     
  }
  .table2{
      
      margin:30px;
      display: flex;
+     width: 70%;   
  }
  .table1{
-     flex:1;
-    
+     flex:1;   
  }
  .th{
-  width: 50%;
+  width: 30%;
+  text-align: left;
  }
- .td{
-    width: 50%;
+ .tf{
+    width: 30%;
+    text-align: left;
  }
  .row{
     
@@ -98,13 +120,14 @@
  }
  .row3{
     float: right;
+     flex: 1;
      
  }
  .row5{
     float: right;
-     
+    flex:1 
  }
  .row4{
     float: right;
-    
+    flex: 1;
  }
