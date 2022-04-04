@@ -58,7 +58,7 @@ body{
     margin-left: 30px;
     margin-top: 30px;
     margin-bottom: 30px;
-    
+    font-size: 1.04em;
  }
  .h3{
      margin-left: 30px;
@@ -98,6 +98,7 @@ body{
  .p2{
      margin:30px;
      width: 70%;
+     font-size: 1.04em;
  }
  .clearfix {
      overflow: auto;
@@ -129,30 +130,36 @@ body{
  
  .row{
     display: flex;
+    flex: right;
+  
  }
  .row1{
      float:right;
-   
- }
+ 
+}
+
  
  .list1{
      margin-top: 30px;
+     font-size: 1.02em;
   
    
  }
  .list2{
      margin-top: 30px;
+     font-size: 1.02em;
  }
  .list3{
      margin-top: 30px;
      margin-right: 30px;
+     font-size: 1.02em;
      
  }
 
  h4{
      margin: 30px;
      margin-top: 60px;
-     font-size: 1.4em;
+     font-size: 1.3em;
  }
 
  .row3{
@@ -167,6 +174,7 @@ body{
     float: right;
     
 }
+
 .footer{
     width: 100%;
     background-color: #EFF1ED;
@@ -225,7 +233,7 @@ h1{
     .img2{
    
         height:160px;
-        width:200px;
+        width:500px;
        
         
     }
