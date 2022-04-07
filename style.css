@@ -83,6 +83,8 @@ body{
     margin: 30px; 
     margin-left: 5px;
     margin-bottom: 5px;
+    height:140px; 
+    width:140px;
 }
 .img4{
     border: solid 3px white;
@@ -90,6 +92,8 @@ body{
     margin: 30px;
     margin-left: 5px;
     margin-bottom: 5px;
+    height:140px; 
+    width:140px;
 }
 .img5{
     border: solid 3px white;
@@ -97,6 +101,9 @@ body{
     margin: 30px;   
     margin-left: 5px;
     margin-bottom: 5px;
+    height:140px; 
+    width:140px;
+    
 }
  .h8{
     margin-left: 30px;
@@ -169,15 +176,12 @@ body{
 
  .row3{
     float: right;
- 
  }
- .row5{
-    float: right;
-    
-}
  .row4{
-    float: right;
-    
+    float: right; 
+}  
+ .row5{
+    float: right;  
 }
 .h5{
     margin-bottom: 30px;
@@ -239,9 +243,6 @@ h1{
 }
 .row{
     flex-direction: column;
-}
-.row4{
-    float: left;
 }
 .list2{
     margin-right: 30px;
