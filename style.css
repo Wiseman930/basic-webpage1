@@ -147,15 +147,21 @@ body{
     width: auto;
  }
  .row1{
-     float:right; 
+     float:left; 
     
+}
+.row11{
+    float:left; 
+   
+}
+.row111{
+    float:left; 
+   
 }
 
  .list1{
      margin-top: 30px;
      font-size: 1em;
-  
-   
  }
  .list2{
      margin-top: 30px;
@@ -165,7 +171,6 @@ body{
      margin-top: 30px;
      margin-right: 30px;
      font-size: 1em;
-     
  }
 
  h4{
@@ -175,13 +180,13 @@ body{
  }
 
  .row3{
-    float: right;
+    float: left;
  }
  .row4{
-    float: right; 
+    float: left; 
 }  
  .row5{
-    float: right;  
+    float: left;  
 }
 .h5{
     margin-bottom: 30px;
@@ -235,7 +240,8 @@ h1{
 }
 .img5{
     height:180px;
-    width:180px;       
+    width:180px;  
+    margin-left: 30px;     
 }
 
 .p1{
