@@ -22,7 +22,7 @@ body{
 }
 .header{
 
-    margin-top: 40px;
+    margin-top: 30px;
  }
  .h{
     display: grid;
@@ -45,33 +45,33 @@ h1{
     height:220px;
     width:320px;
     margin-right:5px;
-    margin-top: 30px;
+    margin-top: 15px;
     border: solid 3px white;
     border-radius: 1em;
     float: left;
 }
- .h2{
-    margin-right:30px;
-    margin-top: 30px;
-    margin-bottom: 30px;
+ h2{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-align: center;
 
 }
  .p1{
-    margin-top: 30px;
-    margin-bottom: 30px;
+    margin-top: 15px;
+    margin-bottom: 15px;
     font-size: 1.35em;
  }
  .h3{
      margin-left: 0px;
  }
 .spacing1{
-    margin-top: 120px;
+    margin-top: 60px;
 }
 .content{
-    margin-top: 90px;
+    margin-top: 60px;
 }
 .histplaces{
-    margin-top: 90px;
+    margin-top: 60px;
 }
 
 .img3{
@@ -80,9 +80,10 @@ h1{
     margin: 30px;
     margin-right: 5px;
     margin-left:0px ;
-    margin-bottom: 1px;
+    margin-bottom: 0px;
     height:140px;
     width:140px;
+    margin-top: 10px;
 }
 .img4{
     border: solid 3px white;
@@ -90,24 +91,22 @@ h1{
     margin: 30px;
     margin-right: 5px;
     margin-left: 0px;
-    margin-bottom: 1px;
+    margin-bottom: 0px;
     height:140px;
     width:140px;
+    margin-top: 10px;
 }
 .img5{
     border: solid 3px white;
     border-radius: 1em;
     margin: 30px;
+    margin-top: 10px;
     margin-right: 5px;
     margin-left: 0px;
-    margin-bottom: 1px;
+    margin-bottom: 0px;
     height:140px;
     width:140px;
 
-}
- .h8{
-
-    margin-top: 60px;
 }
  .p2{
      margin:30px;
@@ -127,7 +126,7 @@ h1{
  }
  .table2{
 
-     margin:30px;
+     margin:15px;
      margin-left: 0px;
      margin-right: 0px;
      width: 100%;
@@ -160,19 +159,19 @@ h1{
 }
 
  .list1{
-     margin-top: 30px;
+     margin-top: 10px;
      margin-right: 5px;
      margin-left: 0px;
      font-size: 1em;
 
  }
  .list2{
-     margin-top: 30px;
+     margin-top: 10px;
      margin-right: 5px;
      font-size: 1em;
  }
  .list3{
-     margin-top: 30px;
+     margin-top: 10px;
      margin-right: 0px;
      font-size: 1em;
  }
@@ -180,8 +179,10 @@ h1{
  h4{
      margin: 30px;
      margin-left: 0px;
-     margin-top: 60px;
+     margin-top: 15px;
+     margin-bottom: 30px;
      font-size: 1.3em;
+     text-align: center;
  }
 
  .row3{
@@ -218,6 +219,11 @@ h1{
     align-items: center;
     justify-items: center;
     font-size: 0.8em;
+}
+.container{
+    margin-left: 10px;
+    margin-right: 10px;
+
 }
 .img1{
     height:280px;
