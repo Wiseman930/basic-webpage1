@@ -61,13 +61,17 @@ h1{
  }
 .spacing1{
     margin-top: 60px;
-    height: auto;
+
 }
+
 .content{
     margin-top: 60px;
 }
 .histplaces{
     margin-top: 60px;
+}
+.box{
+    padding-bottom: 40px;
 }
 
 .img3{
