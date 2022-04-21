@@ -128,7 +128,7 @@ h1{
      margin:30px;
      margin-left: 0px;
      margin-right: 0px;
-     width: 70%;
+     width: auto;
      text-align: center;
      margin-left: 15%;
      margin-right: 15%;
@@ -220,12 +220,17 @@ h1{
     padding-top: 10px;
 }
 @media screen and (min-width: 1300px) {
+
     .h14{
           padding-top: 5%;
     }
     }
 
 @media screen and (max-width: 750px) {
+    .table2{
+        margin-left: 0%;
+        margin-right: 0%;
+        }
 .h{
     display: grid;
     grid-template-columns:1fr;
